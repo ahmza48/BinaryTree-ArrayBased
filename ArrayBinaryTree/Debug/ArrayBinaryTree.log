@@ -1,0 +1,26 @@
+﻿  Source.cpp
+c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(192): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(185): note: while compiling class template member function 'void ArrayBinaryTree<char>::displayLevel(int)'
+  c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(246): note: see reference to function template instantiation 'void ArrayBinaryTree<char>::displayLevel(int)' being compiled
+  c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(233): note: see reference to class template instantiation 'ArrayBinaryTree<char>' being compiled
+c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(125): warning C4305: 'return': truncation from 'int' to 'T'
+          with
+          [
+              T=char
+          ]
+  c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(120): note: while compiling class template member function 'T ArrayBinaryTree<T>::getParent(T)'
+          with
+          [
+              T=char
+          ]
+  c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(249): note: see reference to function template instantiation 'T ArrayBinaryTree<T>::getParent(T)' being compiled
+          with
+          [
+              T=char
+          ]
+c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(125): warning C4309: 'return': truncation of constant value
+c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(41): note: while compiling class template member function 'ArrayBinaryTree<char>::ArrayBinaryTree(int)'
+  c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(233): note: see reference to function template instantiation 'ArrayBinaryTree<char>::ArrayBinaryTree(int)' being compiled
+c:\users\ahmza\source\repos\arraybinarytree\arraybinarytree\source.cpp(138): warning C4715: 'ArrayBinaryTree<char>::getParent': not all control paths return a value
+  ArrayBinaryTree.vcxproj -> C:\Users\ahmza\source\repos\ArrayBinaryTree\Debug\ArrayBinaryTree.exe
